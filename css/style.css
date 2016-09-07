@@ -1,4 +1,28 @@
+@font-face {
+font-family: "PanelFont";
+src: url('../fonts/WalkwaySemiBold.ttf') format('truetype');
+
+
+}
+
+
+
+
+
 .darkBG {
 
 background: #111;
+}
+
+.panel-body {
+margin-top: 10px;
+margin-bottom: 10px;
+  font-size: 2em;
+
+  text-align: center;
+  position: relative;
+  font-family: PanelFont;
+
+
+
 }
