@@ -5,14 +5,14 @@ src: url('../fonts/WalkwaySemiBold.ttf') format('truetype');
 
 }
 
-
-
-
-
-.darkBG {
-
-background: #111;
+.headerleft {
+font-family: PanelFont;
+color: White;
+font-size: 10pt;
 }
+
+
+
 
 .panel-body {
 margin-top: 10px;
@@ -22,7 +22,4 @@ margin-bottom: 10px;
   text-align: center;
   position: relative;
   font-family: PanelFont;
-
-
-
 }
