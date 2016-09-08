@@ -1,1 +1,27 @@
-ECHO is on.
+@font-face {
+font-family: "PanelFont";
+src: url('../fonts/WalkwayUltraBold.ttf') format('truetype');
+}
+
+
+
+@font-face {
+font-family: "BarFont";
+src: url('../fonts/tw-cen-mt.ttf') format('truetype');
+}
+
+
+.Logo {
+margin-top: 8px;
+
+}
+
+.container {
+font-family: "BarFont";
+font-size: 13pt;
+
+}
+
+.btn {
+	border-radius: 0px;
+}

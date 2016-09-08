@@ -1,4 +1,9 @@
 
+@font-face {
+font-family: "PanelFont";
+src: url('../fonts/WalkwayUltraBold.ttf') format('truetype');
+}
+
 
 @font-face {
 font-family: "BarFont";
@@ -34,4 +39,12 @@ margin-bottom: 10px;
   border-radius: 0px;
 
 
+}
+
+
+
+.thumbnail {
+
+  font-family: "PanelFont";
+border-radius: 0px;
 }
