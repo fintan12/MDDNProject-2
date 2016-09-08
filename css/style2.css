@@ -22,3 +22,16 @@ font-size: 13pt;
 .btn {
 	border-radius: 0px;
 }
+
+.panel-body {
+margin-top: 55px;
+margin-bottom: 10px;
+  font-size: 2em;
+
+  text-align: center;
+  position: relative;
+  font-family: BarFont;
+  border-radius: 0px;
+
+
+}
