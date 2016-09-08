@@ -1,6 +1,6 @@
 Index = - Home page (includes latest & popular listings)
         - Click "Find your Beverage" for results page
-        - Profile drops down
+        - Profile can also drop down
 
 Index2 = - Results of a search 
          - Currently just one link. Whatever is typed in the search bar doesn't do anything
