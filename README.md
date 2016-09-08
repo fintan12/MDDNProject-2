@@ -20,3 +20,5 @@ The existing website is also more directed towards middle aged adults and is mis
 
 Due to small liquor stores often not having an online presence users will be able to log into my website and post a listing along with a description of the specific deal they’ve seen, thereby notifying other users of the deals in a particular liquor store at any given time. The site will have a series of images stored that it will match with the according listing depending on what type of drink the user posts. People will be able to browse the website and look at posts associated with different liquor stores that have been uploaded by other users. To make sure false posts aren’t posted other users will be able to up or down vote each post. If it receives enough downvotes it’ll be removed. There is also an option for users to comment. 
 
+The idea of a website updated by the users themselves is what sets my idea apart.
+
