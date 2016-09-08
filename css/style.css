@@ -22,4 +22,31 @@ margin-bottom: 10px;
   text-align: center;
   position: relative;
   font-family: PanelFont;
+  border-radius: 0px;
+}
+
+
+.panel-body2 {
+
+margin-bottom: 25px;
+  font-size: 2em;
+
+  text-align: center;
+  position: relative;
+  font-family: PanelFont;
+
+}
+
+
+.thumbnail {
+
+  font-family: "PanelFont";
+border-radius: 0px;
+}
+
+
+
+
+.btn {
+	border-radius: 0px;
 }
